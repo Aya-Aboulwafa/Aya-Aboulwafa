@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aya Aboulwafa
+=====================================================================================================================================
 
-<!--
-**Aya-Aboulwafa/Aya-Aboulwafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist
+--------------
 
-Here are some ideas to get you started:
+I am interested in the data science field and I began since a more than a year, so I learned about ML algorithms supervised and unsupervised, basics statistics, and data analysis projects by preparing data and creating dashboards in Excel, and I learn all of that in python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Egypt
+* ✉️  You can contact me at [ayaaboulwafa165@gmail.com](mailto:ayaaboulwafa165@gmail.com)
+* 🧠  I'm learning Data Science track on datacamp
+* 🤝  I'm open to collaborating on data science and data analysis projects.
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Aya-Aboulwafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aya-aboulwafa-9572a6207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
