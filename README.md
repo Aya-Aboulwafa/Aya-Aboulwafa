@@ -4,11 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I am interested in the data science field and I began since a more than a year, so I learned about ML algorithms supervised and unsupervised, basics statistics, and data analysis projects by preparing data and creating dashboards in Excel, and I learn all of that in python.
+I am interested in the data science field and I started more than a year ago.
+And I learned about:
+- ML algorithms supervised and unsupervised.
+- Descriptive statistics and basics of Infertial statistics.
+- Hands on data analysis projects: preparing data and creating dashboards in Excel.
+And I learned all of that in python.
+
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ayaaboulwafa165@gmail.com](mailto:ayaaboulwafa165@gmail.com)
-* 🧠  I'm learning Data Science track on datacamp
+* 🧠  I'm taking Data Science track on datacamp
 * 🤝  I'm open to collaborating on data science and data analysis projects.
 
 ### Skills
