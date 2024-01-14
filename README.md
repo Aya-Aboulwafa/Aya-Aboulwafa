@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aya Aboulwafa
 =====================================================================================================================================
 
-Data Scientist
+AI Engineer
 --------------
 
 I am interested in the data science field and I started more than a year ago.  
